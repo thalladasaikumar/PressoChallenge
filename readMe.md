@@ -1,4 +1,4 @@
-Project is done on Python language.
+Project is done on Python language, to extract the mini profile details from LinkedIn post commenters.
 
 How to run the project?
 hit the runMe.bat file.
